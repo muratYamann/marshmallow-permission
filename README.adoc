@@ -29,6 +29,9 @@ Android 6.0 izinleri
         * */
 
 
+[source ,java]
+----
+
    final static int PERMISSIONS_REQUEST_CODE = 1;
 
 
@@ -167,7 +170,7 @@ Android 6.0 izinleri
    }
 
 
-
+----
 
 
 
